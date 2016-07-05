@@ -19,7 +19,9 @@ gem 'coffee-rails', '~> 4.2'
 # learn-rails
 gem 'foundation-rails', '~> 5.5'
 gem 'gibbon'
+# Rails engine for static pages.
 gem 'high_voltage'
+# Better forms
 gem 'simple_form'
 
 # Use jquery as the JavaScript library
